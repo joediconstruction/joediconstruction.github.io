@@ -1,18 +1,12 @@
-/*
-	Projection by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 (function($) {
 
 	// Breakpoints.
 		skel.breakpoints({
-			xlarge:	'(max-width: 1680px)',
-			large:	'(max-width: 1280px)',
-			medium:	'(max-width: 980px)',
-			small:	'(max-width: 736px)',
-			xsmall:	'(max-width: 480px)'
+			xlarge:	'(max-width: 1000px)',
+			large:	'(max-width: 900px)',
+			medium:	'(max-width: 800px)',
+			small:	'(max-width: 700px)',
+			xsmall:	'(max-width: 500px)'
 		});
 
 	$(function() {
