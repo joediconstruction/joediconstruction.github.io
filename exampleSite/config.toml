@@ -1,6 +1,7 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.example.com/"
+hugo server -t hugo-icon
+baseURL = "joediconstruction.github.io"
 languageCode = "en-AU"
 title = "My Awesome Title"
 
